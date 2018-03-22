@@ -1,0 +1,13 @@
+{
+  "name": "resolunch-backend",
+  "version": "0.0.1",
+  "description": "",
+  "author": "Alexandre Andrieux",
+  "license": "ISC",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
